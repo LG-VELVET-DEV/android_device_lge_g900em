@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "LG-VELVET-DEV/android_kernel_lge_lito", 
+    "target_path": "kernel/lge/lito",
+    "branch": "pixOS-eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "LG-VELVET-DEV/android_kernel_lge_lito", 
+    "target_path": "vendor/lge/g900em",
+    "branch": "pixOS-eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings", 
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-18.0"
+  }
+]
