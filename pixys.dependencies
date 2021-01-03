@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "LG-VELVET-DEV/android_kernel_lge_lito", 
+    "repository": "LG-VELVET-DEV/vendor_lge_g900em", 
     "target_path": "vendor/lge/g900em",
     "branch": "pixOS-eleven"
   },
